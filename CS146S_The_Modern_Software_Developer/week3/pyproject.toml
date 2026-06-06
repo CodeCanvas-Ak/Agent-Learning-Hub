@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "openmeteo-mcp-local"
+version = "0.1.0"
+description = "一个封装 Open-Meteo API 的本地 STDIO MCP 服务。"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "httpx>=0.28.0,<1.0.0",
+  "mcp>=1.12.4,<2.0.0",
+]
+
+[project.scripts]
+openmeteo-mcp = "server.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["server"]
