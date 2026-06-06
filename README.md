@@ -26,3 +26,9 @@ Hello Agent：![image-20260603223237205](README.assets/image-20260603223237205.p
 
 ---------
 
+完成Hello-Agent 第五章—基于低代码平台的智能体搭建的学习
+
+了解并实操了几个代表性的平台：Coze，Dify，FastGPT，n8n
+
+---------
+
