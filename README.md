@@ -32,3 +32,9 @@ Hello Agent：![image-20260603223237205](README.assets/image-20260603223237205.p
 
 ---------
 
+完成了Hello-Agent 第六章—框架开发实践
+
+复习了LangGraph 以及了解到其他开发框架如：AutoGen、AgentScope、CAMEL
+
+---------
+
