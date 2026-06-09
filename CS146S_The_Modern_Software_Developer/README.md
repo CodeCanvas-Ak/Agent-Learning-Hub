@@ -32,3 +32,9 @@ Stanford University • Fall 2025
 
 ---------
 
+**week4 **
+
+读完了 How Anthropic teams use Claude Code ,也是对自己使用Claude Code 的过程的一次回顾及精炼
+
+~~这周忙于备考六级刷分，周六完后不鸽，继续全身投入Agent相关学习~~
+
