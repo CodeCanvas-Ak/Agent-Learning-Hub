@@ -44,5 +44,11 @@ Hello Agent：![image-20260603223237205](README.assets/image-20260603223237205.p
 
 ---------
 
+完成了Hello-Agent 第八章—记忆与检索
+
+为HelloAgents增加两个核心能力：**记忆系统（Memory System）**和**检索增强生成（Retrieval-Augmented Generation, RAG）**
+
+---------
+
 
 
