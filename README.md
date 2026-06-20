@@ -50,5 +50,13 @@ Hello Agent：![image-20260603223237205](README.assets/image-20260603223237205.p
 
 ---------
 
+完成了Hello-Agent第九章—上下文工程
+
+1. **ContextBuilder**：实现了 GSSC 流水线，提供统一的上下文管理接口
+2. **NoteTool**：Markdown+YAML 的混合格式，支持结构化的长期记忆
+3. **TerminalTool**：安全的命令行工具，支持即时的文件系统访问
+
+---------
+
 
 
