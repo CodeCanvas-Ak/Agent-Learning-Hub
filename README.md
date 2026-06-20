@@ -56,6 +56,8 @@ Hello Agent：![image-20260603223237205](README.assets/image-20260603223237205.p
 2. **NoteTool**：Markdown+YAML 的混合格式，支持结构化的长期记忆
 3. **TerminalTool**：安全的命令行工具，支持即时的文件系统访问
 
+级联效应：上游阶段的失效会被下游阶段放大。例如 Select 阶段混入大量无关信息，会导致 Compress 阶段无法精准识别核心内容，进一步加剧信息丢失或腐蚀。
+
 ---------
 
 
